@@ -1,0 +1,5 @@
+conv: main.cpp convolution.cpp
+	g++ main.cpp convolution.cpp -o conv
+
+clean:
+	rm -f conv

@@ -1,0 +1,5 @@
+MIN = -3.2
+MAX = 6.7
+MEAN = 1.735
+Variance = 8.20555
+Std Deviation = 2.86453
